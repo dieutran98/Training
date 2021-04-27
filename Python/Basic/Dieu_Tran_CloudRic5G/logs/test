@@ -1,0 +1,5 @@
+23:14:26,606 -my_logs.py - <module>:89 -    DEBUG - debug message
+23:14:26,606 -my_logs.py - <module>:90 -     INFO - info message
+23:14:27,108 -my_logs.py - <module>:92 -  WARNING - warn message
+23:14:27,108 -my_logs.py - <module>:93 -    ERROR - error message
+23:14:27,108 -my_logs.py - <module>:94 - CRITICAL - critical message

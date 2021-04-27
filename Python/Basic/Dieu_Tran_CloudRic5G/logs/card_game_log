@@ -1,0 +1,6 @@
+18:48:26,423 - card_game.py - play_card:117 -    DEBUG - The House card created < name: SPADE-7 point: 20 >
+18:48:26,424 - card_game.py - play_card:118 -    DEBUG - Player card created < name: CLUB-6 point: 32 player point: 35 >
+18:48:35,245 - card_game.py - play_card:117 -    DEBUG - The House card created < name: DIAMOND-2 point: 41 >
+18:48:35,245 - card_game.py - play_card:118 -    DEBUG - Player card created < name: CLUB-K point: 39 player point: 35 >
+18:48:39,516 - card_game.py - play_card:130 -    DEBUG - player guess wrong
+18:48:41,533 - card_game.py - <module>:172 -     INFO - end game
